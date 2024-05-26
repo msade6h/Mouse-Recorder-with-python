@@ -65,7 +65,7 @@ def start_replaying():
 def stop_program():
     root.destroy()
 
-# رابط گرافیکی
+
 root = tk.Tk()
 root.title("Mouse Recorder")
 
